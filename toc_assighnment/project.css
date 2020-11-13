@@ -1,0 +1,26 @@
+body {
+    color: black;
+    margin: 14px;
+    padding: 6px;
+    font-family: 'Baloo Bhai 2', cursive;
+    height: 100%;
+    border: 2px solid black;
+}
+
+form {
+    font-size: larger;
+    border: 2px solid black;
+    padding: 10px 10px;
+    margin: 20px 20px;
+    background-color: #ebf5ea;
+}
+
+.container {
+    padding: 10px;
+    background-color: darkkhaki;
+}
+
+h1 {
+    color: rgb(22, 51, 212);
+    text-decoration: uppercas
+}
